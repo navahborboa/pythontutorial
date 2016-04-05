@@ -1,4 +1,4 @@
-three = 3
-four = 4
-seven = three + four
-print seven
+number = 5
+number1 = 5
+result = number + number1
+print result
